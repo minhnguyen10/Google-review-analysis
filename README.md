@@ -1,4 +1,4 @@
-# Google Review Analysis (On going)
+# Google Review Analysis
 
 ## Overview
 This project aims to analyze Google Reviews for a particular business using data obtained from serpAPI and insights from OpenAI's GPT-3 language model. The project includes two main components:
